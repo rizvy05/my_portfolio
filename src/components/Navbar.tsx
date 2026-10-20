@@ -56,7 +56,7 @@ export default function Navbar() {
             href="#contact"
             className="px-4 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-medium shadow-md shadow-indigo-500/20 transition-all hover:scale-105"
           >
-            Let's Talk
+            Lets Talk
           </a>
         </div>
 
@@ -88,7 +88,7 @@ export default function Navbar() {
             onClick={() => setIsOpen(false)}
             className="block w-full text-center py-3 rounded-xl bg-indigo-600 text-white font-medium shadow-md shadow-indigo-500/20"
           >
-            Let's Talk
+            Lets Talk
           </a>
         </div>
       )}
