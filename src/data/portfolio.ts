@@ -41,7 +41,7 @@ export const PORTFOLIO_DATA = {
       category: "Full Stack",
       featured: true,
       githubUrl: "https://github.com/rizvy05/Bazar-dor-new.git",
-      liveUrl: "https://bazar-dor.vercel.app",
+      liveUrl: "https://vercel.app",
       highlights: [
         "Developed a web platform for displaying market prices",
         "Implemented authentication using Better Auth",
